@@ -1,3 +1,5 @@
+![logo](https://github.com/Biswarup96/Biswarup96/blob/main/B.png?raw=true)
+
 <h1 align="center">Hi 👋, I'm Biswarup Rana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
